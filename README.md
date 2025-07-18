@@ -8,7 +8,7 @@
   <a href="#license">License</a>
 </p>
 
-# Grade: 19.20 out of 20
+## Grade: 19.20 out of 20
 ## Note: I only worked on the Vonlunteer Profile part of the prject, the rest was done by the other members of the group (we were 6)
 
 # About
