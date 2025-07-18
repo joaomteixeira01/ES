@@ -8,6 +8,9 @@
   <a href="#license">License</a>
 </p>
 
+# Grade: 19.20 out of 20
+## Note: I only worked on the Vonlunteer Profile part of the prject, the rest was done by the other members of the group (we were 6)
+
 # About
 
 **HumanaEthica** is an open-source broker that aims to connect charities and non-profit organizations with volunteers.
